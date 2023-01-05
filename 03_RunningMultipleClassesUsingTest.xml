@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite ">
+    <test name="Test 01">
+        <classes>
+            <class name="clarusway.tests.Day02_C01_TestNGXML_Groups"></class>
+            <class name="clarusway.tests.Day01_C02_Priority"></class>
+        </classes>
+
+    </test>
+
+    <test name="Test 02">
+        <classes>
+            <class name="clarusway.tests.Day01_C01_TestNGAnnotations"></class>
+        </classes>
+    </test>
+
+</suite>
